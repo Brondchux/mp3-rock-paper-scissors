@@ -1,4 +1,4 @@
-# Rock Paper Scissors - Project
+# Rock Paper Scissors - Mini Project 3 (MP3)
 
 ## Project Description
 
@@ -8,13 +8,13 @@ This project is designed so you can play Rock, Paper, Scissors agianst the compu
 
 ## Table of Content
 
-1. [Project Description](https://github.com/Brondchux/hw3-password-generator#project-description)
-2. [Authors Info](https://github.com/Brondchux/hw3-password-generator#authors-info)
-3. [Acceptance Criteria](https://github.com/Brondchux/hw3-password-generator#acceptance-criteria)
-4. [Mock-Up Preview](https://github.com/Brondchux/hw3-password-generator#mock-up-preview)
-5. [Useful Links](https://github.com/Brondchux/hw3-password-generator#useful-links)
-6. [Credits](https://github.com/Brondchux/hw3-password-generator#credits)
-7. [Licence](https://github.com/Brondchux/hw3-password-generator#licence)
+1. [Project Description](https://github.com/Brondchux/mp3-rock-paper-scissors#project-description)
+2. [Authors Info](https://github.com/Brondchux/mp3-rock-paper-scissors#authors-info)
+3. [Acceptance Criteria](https://github.com/Brondchux/mp3-rock-paper-scissors#acceptance-criteria)
+4. [Mock-Up Preview](https://github.com/Brondchux/mp3-rock-paper-scissors#mock-up-preview)
+5. [Useful Links](https://github.com/Brondchux/mp3-rock-paper-scissors#useful-links)
+6. [Credits](https://github.com/Brondchux/mp3-rock-paper-scissors#credits)
+7. [Licence](https://github.com/Brondchux/mp3-rock-paper-scissors#licence)
 
 ---
 
@@ -69,8 +69,8 @@ The image below shows the preview of my scoreboard and greeting-message after pl
 
 ## Useful Links
 
-1. 🗂 [Click me to view github repository for this project](https://github.com/Brondchux/hw3-password-generator)
-2. 🌍 [Click me to view deployed application on github pages](https://brondchux.github.io/hw3-password-generator)
+1. 🗂 [Click me to view github repository for this project](https://github.com/Brondchux/mp3-rock-paper-scissors)
+2. 🌍 [Click me to view deployed version of this application on github pages](https://brondchux.github.io/mp3-rock-paper-scissors/)
 
 ---
 
